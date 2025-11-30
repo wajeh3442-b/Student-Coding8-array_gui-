@@ -1,4 +1,4 @@
-rray size to enter each element.
+Array size to enter each element.
 
 Show Array Button: Displays the array with indices in a separate panel.
 
